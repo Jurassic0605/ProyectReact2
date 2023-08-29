@@ -1,0 +1,23 @@
+.tmTituloMH {
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color:rgb(27, 27, 27);
+}
+
+.tmTituloPK {
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:goldenrod;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: rgb(23, 102, 182);
+}
+
+.tmTituloSC {
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(23, 102, 182);
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: rgb(182, 182, 182);
+}

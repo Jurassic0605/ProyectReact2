@@ -1,0 +1,16 @@
+.toLetra {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.tipoLetra {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tmTitulo {
+    font-size: 70px;
+}
